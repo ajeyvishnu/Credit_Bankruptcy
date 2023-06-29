@@ -48,5 +48,17 @@ The project involves the following steps:
 
 5. Benefit Calculation: Based on the models' predictions, calculate the benefit for the bank in terms of the number of clients and the default rate. The Payments and Average Default values are assumed to begin with. These values can be adjusted based on the inputs given by the banker.
 
+## File Dictionary
+
+Credit_Bankruptcy_Presentation: A small presentation assuming you are a service provider approaching a bank for a tie-up with them.
+
+Credit_Bankruptcy_Report: A brief report of the complete project.
+
+MasterFile_AllCalculation: An Excel file that allows you to enter variables based on the bank's situation and shows instant outputs and visuals. It also has the underlying calculations used for the final benefit of the model.
+
+R_Code_AllModels: R file with all the models run for each method and the results of accuracy, recall, and precision for every model
+
+credit: The original dataset used to run the models.
+
 
 
